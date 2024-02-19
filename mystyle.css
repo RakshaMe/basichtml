@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(216, 230, 173);
+  }
+  
+  h1 {
+    color: rgb(0, 128, 73);
+    margin-left: 20px;
+
+    
+  }
+
+  p{
+    text-align:left;
+    color: darkcyan;
+   ;
+  }
