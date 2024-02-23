@@ -1,17 +1,18 @@
 body {
-    background-color: rgb(216, 230, 173);
+    background-color: rgb(226, 239, 187);
   }
   
   h1 {
     color: rgb(0, 128, 73);
     margin-left: 20px;
-
+ 
     
   }
 
   p{
     text-align:left;
     color: rgb(61, 174, 174);
+    border: 1px dashed red;
    ;
   }
   .Intro1{
@@ -19,6 +20,15 @@ body {
   }
 
  
-  #IMP1{
+  #Imp1{
     color: rgb(7, 8, 8);
+  }
+  .div1{
+    border: 200px solid goldenrod;
+    margin: 2px;
+    padding: 40px;
+    height:10px;
+    width: 200px;
+    color: black;
+    background-color: beige;
   }
